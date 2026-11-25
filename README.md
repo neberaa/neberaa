@@ -22,6 +22,6 @@ With 9+ years in software engineering, I combine hands-on development with techn
 
 ### Let's connect
 
-- [Portfolio](https://neberaanton.me)
+- [Portfolio](https://neberaanton.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/anton-nebera-9a8232185/)
 - [Email](mailto:neberaanton@gmail.com)
