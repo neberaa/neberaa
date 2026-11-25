@@ -15,7 +15,7 @@ With 9+ years in software engineering, I combine hands-on development with techn
 
 ### Selected work
 
-- [Portfolio](https://neberaanton.me) — personal portfolio and engineering work
+- [Portfolio](https://neberaanton.vercel.app) — personal portfolio and engineering work
 - [Vue Hotel Datepicker](https://github.com/neberaa/vue-hotel-datepicker) — extended Vue datepicker component
 - [Playwright + Cucumber](https://github.com/neberaa/playwright-cucumber-js-e2e-boilerplate) — end-to-end testing boilerplate
 - [Da4me](https://github.com/neberaa/Da4me) — web product project
